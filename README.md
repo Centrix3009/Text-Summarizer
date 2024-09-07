@@ -14,5 +14,6 @@ This AI-powered text and document summarizer is built using Streamlit and the tx
                                                      `pip install PyPDF2`  
 5. run the website: `streamlit run app.py`
 
+## Snippet
 
-![ajay](https://github.com/user-attachments/assets/dbaf1c51-9748-4794-9573-4bee5c330a29)
+![Summarizer](https://github.com/user-attachments/assets/dbaf1c51-9748-4794-9573-4bee5c330a29)
