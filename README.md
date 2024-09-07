@@ -1,5 +1,8 @@
 # TextSummarizer
 
+## AI Text and Document Summarizer
+This AI-powered text and document summarizer is built using Streamlit and the txtai library. It allows users to input text or upload PDF documents and generates concise summaries. The summarizer works by leveraging natural language processing models to extract the most important points from the content. Instead of using OpenAI's API, this app utilizes txtai's Summary pipeline, an open-source AI framework that enables natural language understanding and document indexing. The app is highly efficient for summarizing both short texts and lengthy documents, providing users with a quick overview of the essential information.
+
 ## Installation
 
 1. Clone the repository `https://github.com/Centrix3009/Text-Summarizer.git`
